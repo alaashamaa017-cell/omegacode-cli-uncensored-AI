@@ -12,7 +12,7 @@
 
 Watch the full setup and usage guide on YouTube:
 
-**[![OmegaCode CLI Tutorial](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+[![OmegaCode CLI Tutorial](https://img.youtube.com/vi/A-qKucS7xgE/0.jpg)](https://www.youtube.com/watch?v=A-qKucS7xgE)
 
 *(Replace the video link above with your actual tutorial link)*
 
