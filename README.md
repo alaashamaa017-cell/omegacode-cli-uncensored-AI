@@ -14,6 +14,8 @@ Watch the full setup and usage guide on YouTube:
 
 [![OmegaCode CLI Tutorial](https://img.youtube.com/vi/A-qKucS7xgE/0.jpg)](https://www.youtube.com/watch?v=A-qKucS7xgE)
 
+ [![Create Fud Crypter](https://img.youtube.com/vi/GFfNknUwOso/0.jpg)](https://www.youtube.com/watch?v=GFfNknUwOso)
+
 *(Replace the video link above with your actual tutorial link)*
 
 ## ✨ Features
